@@ -13,4 +13,4 @@ FREE SPACE AFTER CLEAN UP!
 ```
 
 ## WARNING !!!
-This script use lots of `rm -rf` command for permanent removal. Therefore, please be careful and use at your own risk !!!
+This script uses lots of `rm -rf` command for permanent removal. Therefore, please be careful and use at your own risk !!!
